@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Administração",
+    "description": "A graduação em Administração privilegia o desenvolvimento de um profissional empreendedor, conectado com as demandas do mercado, integrando academia e empresariado. Em sua estrutura, o curso conta com aulas dinâmicas, nas quais os alunos utilizam ferramentas de gestão modernas e amplamente difundidas no mercado empresarial.",
+    "grade": [
+      "COMPORTAMENTO ORGANIZACIONAL",
+      "ECONOMIA EMPRESARIAL",
+      "MATEMÁTICA EMPRESARIAL",
+      "PRINCÍPIOS DE GESTÃO",
+      "CONTABILIDADE GERAL",
+      "INOVAÇÃO E EMPREENDEDORISMO",
+      "LIDERANÇA E COACHING"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Ciências da Computação",
+    "description": "O Curso Superior de bacharelado em Ciência da Computação visa capacitar o profissional a atuar nas diversas atividades que compõem todos os segmentos do desenvolvimento de sistemas de computação de forma crítica e reflexiva, pesando o impacto dos sistemas desenvolvidos nas pessoas e na sociedade.",
+    "grade": [
+      "ARQUITETURA DE COMPUTADORES",
+      "FUNDAMENTOS DE REDES DE COMPUTADORES",
+      "INTRODUÇÃO À PROGRAMAÇÃO ESTRUTURADA EM C",
+      "INTRODUÇÃO À SEGURANÇA DA INFORMAÇÃO",
+      "BANCO DE DADOS",
+      "COMPUTAÇÃO EM NUVEM",
+      "DESENV. WEB EM HTML5, CSS, JAVASCRIPT E PHP",
+      "PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO EM PYTHON",
+      "PENSAMENTO COMPUTACIONAL"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Análise e Desenvolvimento de Sistemas",
+    "description": "O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas visa capacitar o profissional a desenvolver, analisar, projetar e implantar sistemas de informação, informatização e automação, de forma a suprir as necessidades crescentes das empresas de todos os portes quanto a otimização visando o aumento da competitividade.",
+    "grade": [
+      "ARQUITETURA DE COMPUTADORES",
+      "FUNDAMENTOS DE REDES DE COMPUTADORES",
+      "INTRODUÇÃO À PROGRAMAÇÃO ESTRUTURADA EM C",
+      "INTRODUÇÃO À SEGURANÇA DA INFORMAÇÃO",
+      "BANCO DE DADOS",
+      "COMPUTAÇÃO EM NUVEM",
+      "DESENV. WEB EM HTML5, CSS, JAVASCRIPT E PHP",
+      "PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO EM PYTHON"
+    ]
+  }
+]
