@@ -3,6 +3,7 @@
  */
 
 import user from './user';
+import course from './course';
 import message from './message';
 
 /*
@@ -12,5 +13,6 @@ import message from './message';
  */
 export default {
   ...user,
+  ...course,
   ...message,
 };

@@ -12,7 +12,18 @@ const usersSeeder = server => {
   server.createList('user', 10);
 };
 
+const coursesSeeder = server => {
+  /*
+   * This will create in the in memory DB 10 objects
+   * of the Factory `user`. Moreover it creates a
+   * random number of messages and assign to each
+   * and every user, making use of relationships.
+   */
+  server.createList('course', 10);
+};
+
 export default function seeds(server) {
-  server.loadFixtures();
+  // server.loadFixtures();
   usersSeeder(server);
+  coursesSeeder(server);
 }
